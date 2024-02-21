@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\services\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:services\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\services\\basicimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:services\\basicimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\coderfoundry\\addressbook\\addressbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D688AB-B39F-4D51-9729-657AC99B69C0}|AddressBook.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-21T02:06:40.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T01:48:00.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T19:21:39.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T18:46:22.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T20:13:14.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Controllers\\ContactsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAE0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:17:47.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T20:13:02.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Services\\Interfaces\\IImageService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IImageService.cs",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Services\\Interfaces\\IImageService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T21:23:52.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasicImageService.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Services\\BasicImageService.cs",
+              "RelativeDocumentMoniker": "Services\\BasicImageService.cs",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Services\\BasicImageService.cs",
+              "RelativeToolTip": "Services\\BasicImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T22:08:20.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T18:42:43.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\CoderFoundry\\AddressBook\\AddressBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T18:35:21.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
